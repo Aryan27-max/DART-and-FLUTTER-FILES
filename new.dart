@@ -1,3 +1,4 @@
-main() {
- print(14/(2+3));
- }
+void main() {
+  print('Hello, World!');
+}
+
